@@ -1,4 +1,4 @@
-# main.py
-
-print("Hello, this is a sample Python script!")
-
+x = 5
+y = 5
+sum = x + y
+print(sum)
